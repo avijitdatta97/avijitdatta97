@@ -69,22 +69,22 @@ Building RESTful backend services using Java, Spring Boot, Spring Security, and 
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=avijitdatta97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=avijitdatta97\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" height="165" alt="GitHub Stats"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=avijitdatta97&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=avijitdatta97\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Top Languages"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avijitdatta97&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitdatta97&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=avijitdatta97&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=avijitdatta97\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avijitdatta97&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=avijitdatta97&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=avijitdatta97\&theme=tokyo-night\&hide_border=true)" alt="Contribution Graph" width="100%"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avijitdatta97&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
 
 ---
 
@@ -92,21 +92,21 @@ Building RESTful backend services using Java, Spring Boot, Spring Security, and 
 
 I'm always interested in connecting with fellow developers, collaborating on interesting projects, and discussing new technologies.
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/avijitdatta97](https://github.com/avijitdatta97)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/avijitdatta97">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Great software is built with curiosity, consistency, and a passion for solving problems."\</i>
-\</p>
+<p align="center">
+  <i>"Great software is built with curiosity, consistency, and a passion for solving problems."</i>
+</p>
 
-\<p align="center">
-&#x20; ⭐ Thanks for visiting my profile!
-\</p>
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
