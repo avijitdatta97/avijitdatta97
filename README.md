@@ -78,13 +78,6 @@ Building RESTful backend services using Java, Spring Boot, Spring Security, and 
   <img src="https://streak-stats.demolab.com?user=avijitdatta97&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avijitdatta97&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
 
 ---
 
